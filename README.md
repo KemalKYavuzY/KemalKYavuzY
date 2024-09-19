@@ -5,6 +5,6 @@
 💻 **Skills:**
 - Programming Languages: C, C++, Java, JavaScript, Python, HTML, CSS
 - Frameworks / Libraries: React, Next.js, Tailwind CSS
-- Technologies: Git, MongoDB, Spring Boot
+- Technologies: Git, MongoDB, Spring Boot, MySQL
 
 🌟 Feel free to explore my projects and repositories! Don't hesitate to reach out if you have any questions or want to collaborate.
